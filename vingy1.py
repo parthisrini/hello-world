@@ -12,3 +12,7 @@ x = np.arange(0.5, 10.4, 0.8)
 print(x)
 x = np.arange(0.5, 10.4, 0.8, int)
 print(x)
+number1=4
+number2=6
+number3=number1+number2
+print(number3)
